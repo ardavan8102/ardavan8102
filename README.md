@@ -2,9 +2,9 @@
 - 🎂 11 / 13 / 2002 
 - ❓ Iran / ( Tehran / Qazvin / Zanjan / Mazandaran / Shiraz )
 - -----------------
-- 🎮 Game Develope
+- 🎮 Game Develop
 - 🔒 Hack & Security
-- 💻 Desktop App Develope
+- 💻 Desktop App Develop
 - -----------------
 - 🌱 Growing In Programming . . . 
 - 🏐 Volley Ball
