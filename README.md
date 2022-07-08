@@ -1,16 +1,18 @@
+- -- About Me --
 - 👋 Ardavan Eskandari
 - 🎂 11 / 13 / 2002 
 - ❓ Iran / ( Tehran / Qazvin / Zanjan / Mazandaran / Shiraz )
 - -----------------
 - -- Interested --
+- 🌎 Backend Develop
 - 🎮 Game Develop
 - 🔒 Hack & Security
 - 💻 Desktop App Develop
-- 🌎 Backend Develop
 - -----------------
-- 🌱 Growing In Programming . . . 
-- 🏐 Volley Ball
-- 🎶 Music Lover
+- -- Other Stuff --
+- 🏋️ In War With Myself
+- 🏐 Volley Ball Player
+- 🎶 Pop Music Lover
 
 <!---
 ardavan8102/ardavan8102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
