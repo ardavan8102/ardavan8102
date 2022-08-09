@@ -19,7 +19,6 @@
 - 🌎 Backend Develop
 - 🎮 Game Develop
 - 🔒 Hack & Security
-- 💻 Desktop App Develop
 
 # Other Stuff
 - 🏋️ In War With Myself
