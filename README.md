@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=ardavan8102)
 # I'm <b>Ardavan Eskandari</b> 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardavan8102&show_icons=true&theme=tokyonight)
 <!--
