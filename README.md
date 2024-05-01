@@ -10,7 +10,7 @@
 - 🎂 11 / 13 / 2002 
 - ❓ Born Iran - Tehran / Live Iran - Mazandaran
 - 
-- 💻 In Love With :   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) AND ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+- 💻 Developing Mobile Apps With  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 # Interested With
 - 📱 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
