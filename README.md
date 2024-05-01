@@ -9,8 +9,7 @@
 # About Me
 - 🎂 11 / 13 / 2002 
 - ❓ Born Iran - Tehran / Live Iran - Mazandaran
-- 
-- 💻 Developing Mobile Apps With  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+- 💻 Mobile Application Developer
 
 # Interested With
 - 📱 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
