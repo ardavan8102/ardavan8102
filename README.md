@@ -16,9 +16,9 @@
 - 🎮 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 # Other Stuff
-- 🏋️ In War With Myself
-- 🏐 Volley Ball Player
-- 🎶 Pop Music Lover
+- 🏋️ GYM
+- 🏐 Spiker
+- 🎶 Love Music
 
 <!--
 # Contact With Me
