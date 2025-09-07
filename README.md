@@ -6,19 +6,23 @@
 --->
 
 
-# About Me
-- 🎂 10 / 13 / 2002 
-- ❓ Born Iran - Tehran
+# I Work As
 - 💻 Mobile Application Developer
+- 🎨 Ui/Ux Expert
+- 🫧 Web Developer
 
-# Interested With
-- 📱 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-- 🎮 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# I can speak as 
+- 📱 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+- 🐘 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+- 🐍 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-# Other Stuff
+# My Main Field
+- 📱 Mobile App Development With ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+# My Hobbies
 - 🏋️ GYM
-- 🏐 Spiker
-- 🎶 Love Music
+- 🏐 Volleyball
+- 🎶 Listening & Playing Music
 
 
 <!--
