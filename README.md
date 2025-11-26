@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ardavan8102&color=blueviolet&style=plastic&label=Profile+Checked+:)
 # I'm <b>Ardavan Eskandari</b> 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardavan8102&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ardavan8102&theme=black-ice&border_radius=8)](https://git.io/streak-stats)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardavan8102&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 --->
