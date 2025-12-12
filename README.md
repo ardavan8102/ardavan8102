@@ -1,31 +1,19 @@
-![](https://komarev.com/ghpvc/?username=ardavan8102&color=blueviolet&style=plastic&label=Profile+Checked+:)
-# I'm <b>Ardavan Eskandari</b> 👋
-[![GitHub Streak](https://streak-stats.demolab.com?user=ardavan8102&theme=black-ice&border_radius=8)](https://git.io/streak-stats)
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardavan8102&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
---->
+# 💫 I'm Ardavan Eskandari
+🌱 Learning & Studying Flutter Framework<br>🖥️ Currently working on case study applications<br>📧 Reach me at ardavaneskandari007@gmail.com<br><br>📋 I regularly write articles & posts on my blog: ardavaneskandari.ir<br>💼 My Resume Link: resmue.ir
 
 
-# I Work As
-- 💻 Mobile Application Developer
-- 🎨 Ui/Ux Expert
-- 🫧 Web Developer
+## 🌐 Get In Touch With Me:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/t88dfsAFRd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/webzenyata) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ardavan8102) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ardavan81) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17787846) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ardavan81) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Ardavaneskandari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ardavaneskandari007@gmail.com) 
 
-# I can speak as 
-- 📱 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-- 🐘 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-- 🐍 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 💻 Tech Stack:
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ardavan8102&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ardavan8102&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ardavan8102&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-# My Main Field
-- 📱 Mobile App Development With ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ardavan8102&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4) -->
 
-# My Hobbies
-- 🏋️ GYM
-- 🏐 Volleyball
-- 🎶 Listening & Playing Music
-
-
-<!--
-ardavan8102/ardavan8102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### ✍️ A Random Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
