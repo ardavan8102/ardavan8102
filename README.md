@@ -1,5 +1,5 @@
 # 💫 I'm Ardavan Eskandari
-🌱 Learning & Studying Flutter Framework<br>🖥️ Currently working on case study applications<br>📧 Reach me at ardavaneskandari007@gmail.com<br><br>📋 I regularly make posts on my telegram channel: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ardavan8102) <br>💼 My Resume Link: [NOT YET]
+🌱 Learning & Studying Flutter Framework<br>🖥️ Currently working on case study applications<br>📧 Reach me at ardavaneskandari007@gmail.com<br><br>📋 I regularly make posts on my telegram channel: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ardavandesign) <br>💼 My Resume Link: [NOT YET]
 
 
 ## 🌐 Get In Touch With Me:
