@@ -1,5 +1,5 @@
 # 💫 I'm Ardavan Eskandari
-🌱 Learning & Studying Flutter Framework<br>🖥️ Currently working on case study applications<br>📧 Reach me at ardavaneskandari007@gmail.com<br><br>📋 I regularly make posts on my telegram channel: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ardavandesign) <br>💼 My Resume Link: [NOT YET]
+🌱 Learning & Studying Flutter Framework<br>🖥️ Currently working on case study applications<br>📧 Reach me at ardavaneskandari007@gmail.com<br><br>📋 I regularly make posts on my telegram channel: <a href="https://t.me/ardavandesign" target="_blank">Join Channel</a> <br>💼 My Resume Link: [NOT YET]
 
 
 ## 🌐 Get In Touch With Me:
@@ -8,8 +8,7 @@
 # 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ardavan8102&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ardavan8102&theme=tokyonight&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ardavan8102&theme=tokyonight&hide_border=false)<br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ardavan8102&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- ## 🏆 GitHub Trophies
