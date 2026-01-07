@@ -1,7 +1,7 @@
 ![codewars](https://www.codewars.com/users/ardavan81/badges/large)
 
 # 💫 I'm Ardavan Eskandari
-🌱 Learning & Studying Flutter Framework<br>🖥️ Currently working on case study applications<br>📧 Reach me at ardavaneskandari007@gmail.com<br><br>📋 I regularly make posts on my telegram channel -> <a href="https://t.me/ardavandesign" target="_blank">Join Channel</a> <br>🌐 Don't miss my blog website for facts & tips -> <a href="https://ardavaneskandari.ir" target="_blank">Visit Site</a> <br>💼 My Resume Link: [NOT YET]
+🌱 Learning & Studying Flutter Framework<br>🖥️ Currently working on case study applications<br>📧 Reach me at ardavaneskandari007@gmail.com<br><br>📋 I regularly make posts on my telegram channel -> <a href="https://t.me/ardavandesign" target="_blank">Join Channel</a> <br>🌐 Don't miss my blog website for facts & tips -> <a href="https://ardavaneskandari.ir" target="_blank">Visit Site</a> <br>💼 My Resume File: <a href="https://drive.google.com/file/d/1S-4FhwtAAgW7TM2XSW39jW71GuZmyGKI/view?usp=sharing" target="_blank">Click To Download</a>
 
 
 ## 🌐 Social Media:
