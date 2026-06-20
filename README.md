@@ -1,6 +1,6 @@
 # Ardavan Eskandari
 
-Flutter Developer | Mobile & Backend Engineer
+**Flutter Programmer | Mobile Applcation Developer**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square)](https://portfolio.ardavaneskandari.ir)
 [![Resume](https://img.shields.io/badge/Resume-Download-green?style=flat-square)](https://drive.google.com/file/d/1S-4FhwtAAgW7TM2XSW39jW71GuZmyGKI/view?usp=sharing)
