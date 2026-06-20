@@ -41,13 +41,9 @@ Mobile-focused developer specializing in Flutter with backend development experi
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=ardavan81&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardavan81&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardavan81&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages">
 </p>
 
 ## 🚀 Featured Projects
